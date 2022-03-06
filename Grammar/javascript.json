@@ -1,0 +1,15 @@
+{
+	"symbols": {
+		"CR": "\n",
+		"SPACE": " ",
+		"LPAR": "(",
+		"RPAR": ")"
+	},
+	"builtins": {
+		"PRINT": "console.log"
+	},
+	"data_types": {
+		"NUM" : "$",
+		"STR" : "\"$\""
+	}
+}

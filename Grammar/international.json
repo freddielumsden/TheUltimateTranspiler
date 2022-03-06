@@ -1,0 +1,15 @@
+{
+	"symbols": [
+		"CR",
+		"SPACE",
+		"LPAR",
+		"RPAR"
+	],
+	"builtins": [
+		"PRINT"
+	],
+	"data_types": [
+		"NUM",
+		"STR"
+	]
+}
